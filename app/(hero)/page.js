@@ -1,5 +1,5 @@
 import React from 'react'
-import hosmeSrc from '../public/home.jpg'
+import hosmeSrc from '../../public/home.jpg'
 import Hero from '../components/Hero'
 
 export const metadata = {
